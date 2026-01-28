@@ -51,4 +51,4 @@ Previously: Founder & CTO at Voady (ERP system from scratch), Integration Develo
 
 ---
 
-📫 **Reach me:** [simonlundh.se](https://simonlundh.se) · [LinkedIn](https://linkedin.com/in/simonlundh)
+📫 **Reach me:** [simonlundh.se](https://simonlundh.se) · [LinkedIn](https://linkedin.com/in/simon-lundh-09655b1a0)
