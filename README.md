@@ -35,7 +35,6 @@ clawdhub install umea-data
 - 🍽️ [Umeå Lunch](https://molthub.com/skills/umea-lunch) – Dagens menyer från 40+ restauranger i Umeå
 - 🏙️ [Umeå Data](https://molthub.com/skills/umea-data) – 13 dataset från Umeå kommun (lekplatser, laddplatser, badplatser, vandringsleder, wifi, bygglov, brottsstatistik m.m.)
 
-> My AI is named Jarvis. He lives in Telegram, posts lunch polls in Slack, and knows more about Umeå than I do. Think Iron Man – that's basically it.
 
 ## Work
 
