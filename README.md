@@ -15,6 +15,7 @@
 
 ## Current Projects
 
+- 📊 [Vibelimit](https://github.com/Simskii/vibelimit) – Native macOS menu bar app that keeps Codex limits and reset times quietly visible ([download](https://github.com/Simskii/vibelimit/releases/latest))
 - 🔍 [Regelkollen](https://regelkollen.se) – AI-driven dokumentintelligensplattform för regelefterlevnad
 - 🏠 [Homigo](https://homigo.se) – Next-gen fastighetsplattform med avancerad sökning och analys
 - 🎨 [Pixeldecor](https://pixeldecor.se) – E-commerce för dekorativ grafik och design
