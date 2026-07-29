@@ -1,40 +1,36 @@
 # Hi, I'm Simon 👋
 
-📍 Umeå, Sweden | 🚀 Senior Fullstack Developer | 🤖 AI Agent Builder
+Senior full-stack developer in Umeå, Sweden, with 10+ years of experience building and shipping products. I work across Elixir, TypeScript, cloud infrastructure and applied AI, with a particular interest in local-first software and tools that solve concrete problems.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TanStack](https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+## Selected work
 
-10+ years building fullstack products. Currently deep in AI agents and local-first tooling. I believe AI becomes powerful when it solves **your** problems – not abstract ones.
+### [Vibelimit](https://github.com/Simskii/vibelimit)
 
-## Current Projects
+Native macOS menu bar app that keeps Codex usage limits and reset times quietly visible. Built with SwiftUI and available as a [public release](https://github.com/Simskii/vibelimit/releases/latest).
 
-- 📊 [Vibelimit](https://github.com/Simskii/vibelimit) – Native macOS menu bar app that keeps Codex limits and reset times quietly visible ([download](https://github.com/Simskii/vibelimit/releases/latest))
-- 🔍 [Regelkollen](https://regelkollen.se) – AI-driven dokumentintelligensplattform för regelefterlevnad
-- 🏠 [Homigo](https://homigo.se) – Next-gen fastighetsplattform med avancerad sökning och analys
-- 🎨 [Pixeldecor](https://pixeldecor.se) – E-commerce för dekorativ grafik och design
-- 🌐 [simonlundh.se](https://simonlundh.se) – Min portfolio, byggd med TanStack Start
-- 🏙️ [Umeå Open Data](https://github.com/Simskii/umea-opendata) – Visualisering av Umeå kommuns öppna data med karta & statistik
+### [Regelkollen](https://regelkollen.se)
 
-## Work
+AI-powered document intelligence for regulatory compliance, turning complex source material into structured and actionable information.
 
-🏢 **Lead Backend Developer** at [Mainter](https://mainter.com) – Elixir, Phoenix, AWS, Kubernetes
+### [Fortnox API](https://github.com/Simskii/Fortnox-Api)
 
-Previously: Founder & CTO at Voady (ERP system from scratch), Integration Developer at Svevia, System Developer at 5 HIGH INNOVATIONS.
+Open-source JavaScript wrapper for the Fortnox API, used and starred by developers on GitHub.
 
-## Tech I Love
+## Experience
 
-**Frontend:** TanStack (Start, Router, Query) · React · Vue · Tailwind  
-**Backend:** Node.js · Elixir/Phoenix · Bun  
-**AI:** Claude · Prompt Engineering  
-**Infra:** Docker · Traefik · AWS · Kubernetes · Vercel · Dokploy
+**Lead Backend Developer at [Mainter](https://mainter.com)**
 
----
+Elixir, Phoenix, AWS and Kubernetes.
 
-📫 **Reach me:** [simonlundh.se](https://simonlundh.se) · [LinkedIn](https://linkedin.com/in/simon-lundh-09655b1a0)
+Previously founder and CTO at Voady, where I built an ERP product from the ground up. Earlier roles include integration development at Svevia and software development at 5 HIGH INNOVATIONS.
+
+## Focus
+
+- **Backend:** Elixir, Phoenix, Node.js and Bun
+- **Frontend:** TypeScript, React, TanStack, Vue and SwiftUI
+- **Infrastructure:** AWS, Kubernetes, Docker, Traefik and Dokploy
+- **Applied AI:** product features, agents and document workflows
+
+## Contact
+
+[simonlundh.se](https://simonlundh.se) · [LinkedIn](https://linkedin.com/in/simon-lundh-09655b1a0)
