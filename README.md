@@ -1,36 +1,28 @@
-# Hi, I'm Simon 👋
+# Hey, I'm Simon 👋
 
-Senior full-stack developer in Umeå, Sweden, with 10+ years of experience building and shipping products. I work across Elixir, TypeScript, cloud infrastructure and applied AI, with a particular interest in local-first software and tools that solve concrete problems.
+**Senior Fullstack Developer · Product Builder · Open Source Tinkerer**
 
-## Selected work
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### [Vibelimit](https://github.com/Simskii/vibelimit)
+I have spent 10+ years building products from idea to production. I like useful software, small focused tools, local-first systems and AI that solves real problems.
 
-Native macOS menu bar app that keeps Codex usage limits and reset times quietly visible. Built with SwiftUI and available as a [public release](https://github.com/Simskii/vibelimit/releases/latest).
+Currently building backend systems at [Mainter](https://mainter.com) and shipping my own products from Umeå, Sweden.
 
-### [Regelkollen](https://regelkollen.se)
+## Things I'm building
 
-AI-powered document intelligence for regulatory compliance, turning complex source material into structured and actionable information.
+- 📊 **[Vibelimit](https://github.com/Simskii/vibelimit)** — a native macOS menu bar app for keeping Codex usage limits visible. [Download the latest release →](https://github.com/Simskii/vibelimit/releases/latest)
+- 🔍 **[Regelkollen](https://regelkollen.se)** — AI-powered document intelligence for regulatory compliance
+- 🧾 **[Fortnox API](https://github.com/Simskii/Fortnox-Api)** — an open-source JavaScript wrapper for the Fortnox API
 
-### [Fortnox API](https://github.com/Simskii/Fortnox-Api)
+## I enjoy working with
 
-Open-source JavaScript wrapper for the Fortnox API, used and starred by developers on GitHub.
+Elixir & Phoenix · TypeScript · SwiftUI · React & TanStack · PostgreSQL · AWS & Kubernetes
 
-## Experience
+---
 
-**Lead Backend Developer at [Mainter](https://mainter.com)**
-
-Elixir, Phoenix, AWS and Kubernetes.
-
-Previously founder and CTO at Voady, where I built an ERP product from the ground up. Earlier roles include integration development at Svevia and software development at 5 HIGH INNOVATIONS.
-
-## Focus
-
-- **Backend:** Elixir, Phoenix, Node.js and Bun
-- **Frontend:** TypeScript, React, TanStack, Vue and SwiftUI
-- **Infrastructure:** AWS, Kubernetes, Docker, Traefik and Dokploy
-- **Applied AI:** product features, agents and document workflows
-
-## Contact
-
-[simonlundh.se](https://simonlundh.se) · [LinkedIn](https://linkedin.com/in/simon-lundh-09655b1a0)
+[Website](https://simonlundh.se) · [LinkedIn](https://linkedin.com/in/simon-lundh-09655b1a0)
