@@ -22,21 +22,6 @@
 - 🌐 [simonlundh.se](https://simonlundh.se) – Min portfolio, byggd med TanStack Start
 - 🏙️ [Umeå Open Data](https://github.com/Simskii/umea-opendata) – Visualisering av Umeå kommuns öppna data med karta & statistik
 
-## AI Skills for Clawdbot
-
-I build open source skills that teach AI agents local superpowers. Available on [MoltHub](https://molthub.com):
-
-```
-clawdhub install tabussen
-clawdhub install umea-lunch
-clawdhub install umea-data
-```
-
-- 🚌 [Tabussen](https://molthub.com/skills/tabussen) – Kollektivtrafik i Västerbotten (realtid via ResRobot)
-- 🍽️ [Umeå Lunch](https://molthub.com/skills/umea-lunch) – Dagens menyer från 40+ restauranger i Umeå
-- 🏙️ [Umeå Data](https://molthub.com/skills/umea-data) – 13 dataset från Umeå kommun (lekplatser, laddplatser, badplatser, vandringsleder, wifi, bygglov, brottsstatistik m.m.)
-
-
 ## Work
 
 🏢 **Lead Backend Developer** at [Mainter](https://mainter.com) – Elixir, Phoenix, AWS, Kubernetes
@@ -47,7 +32,7 @@ Previously: Founder & CTO at Voady (ERP system from scratch), Integration Develo
 
 **Frontend:** TanStack (Start, Router, Query) · React · Vue · Tailwind  
 **Backend:** Node.js · Elixir/Phoenix · Bun  
-**AI:** Clawdbot · Claude · MoltHub · Prompt Engineering  
+**AI:** Claude · Prompt Engineering  
 **Infra:** Docker · Traefik · AWS · Kubernetes · Vercel · Dokploy
 
 ---
