@@ -17,6 +17,9 @@ Currently building backend systems at [Mainter](https://mainter.com) and shippin
 
 - 📊 **[Vibelimit](https://github.com/Simskii/vibelimit)** — a native macOS menu bar app for keeping Codex usage limits visible. [Download the latest release →](https://github.com/Simskii/vibelimit/releases/latest)
 - 🔍 **[Regelkollen](https://regelkollen.se)** — AI-powered document intelligence for regulatory compliance
+- ❄️ **[Arctickey](https://arctickey.com)** — EU-hosted Redis-compatible databases for queues, caching and real-time apps
+- 🎬 **Gathercut** — turns video clips from everyone at an event into one shared film
+- 🎙️ **Tydla** — a local-first Swedish meeting assistant for recording, transcription and actionable minutes
 - 🧾 **[Fortnox API](https://github.com/Simskii/Fortnox-Api)** — an open-source JavaScript wrapper for the Fortnox API
 
 ## I enjoy working with
